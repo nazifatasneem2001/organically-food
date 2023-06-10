@@ -69,7 +69,7 @@ header .logo img{
     font-size: 3rem;
     color: #666;
     cursor: pointer;
-    padding: 5rem lrem;
+    padding: .5rem 1rem;
     border: .2rem solid rgba(0, 0, 0, .2);
     border-radius: .5rem;
     display: none;
